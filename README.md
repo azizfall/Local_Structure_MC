@@ -6,7 +6,7 @@ python New_MC_Method.py {bJ}
 
 where {bJ} is the command line argument for the product of inverse temperature b and coupling constant J 
 
-
-
+----------------------
+The code is compatible with numba version '0.53.1'
 
 
