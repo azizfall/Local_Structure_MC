@@ -1,4 +1,4 @@
-Refer to the file New_MC_Algorithms for the python pseudocode of this project
+Refer to the file New_MC_Algorithms.pdf for the python pseudocode of this project
 
 To Run The Project using python 
 
